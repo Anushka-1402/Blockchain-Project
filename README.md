@@ -1,4 +1,4 @@
-# COUNTERFEIT PRODUCT DETECTION AND IDENTIFICATION USING BLOCK-CHAIN TECHNOLOGY
+# COUNTERFEIT PRODUCT DETECTION AND IDENTIFICATION USING BLOCKCHAIN TECHNOLOGY
 
 Counterfeit products pose a significant challenge globally, causing economic losses and potential harm to public health. Blockchain technology offers a promising solution by providing a secure and transparent platform for product authentication.<br>
 The objective of this project is to propose a blockchain-based solution(make blockchain supply chain) which runs on Ethereum blockchain for detecting counterfeit products, ensuring authenticity and traceability while protecting consumer interests and brand reputation.<br> The solution implements a smart contract based on solidity and explores the use of smart contracts to automate detection and identification, enhancing security. Overall, the goal is to improve the transparency of managing counterfeit product records, combat corruption, promote economic growth, and ensure social justice in this field.
